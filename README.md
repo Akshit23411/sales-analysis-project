@@ -29,7 +29,7 @@ The project was completed as part of a Data Analytics Internship task.
 - Matplotlib
 - Seaborn
 - Plotly
-- Google Colab
+- Power BI
 - GitHub
 
 ---
